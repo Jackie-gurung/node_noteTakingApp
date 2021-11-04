@@ -1,0 +1,16 @@
+{
+  "name": "notetaking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jackie Mustangi",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "validator": "^10.8.0",
+    "yargs": "^17.2.1"
+  }
+}
